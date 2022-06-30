@@ -1,2 +1,2 @@
 # bagusnendro.github.io
-This is my personal website I created with vanilla HTML and CSS
+This is the source code of my personal website that I created with vanilla HTML and CSS.
